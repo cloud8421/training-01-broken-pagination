@@ -1,0 +1,17 @@
+body {
+  padding-top: 1em;
+}
+
+#contacts, #pagination {
+  margin: 0 5%;
+  width: 90%;
+}
+
+#pagination {
+  text-align: right;
+}
+
+#pagination li {
+  display: inline-block;
+  margin-left: 1em;
+}
